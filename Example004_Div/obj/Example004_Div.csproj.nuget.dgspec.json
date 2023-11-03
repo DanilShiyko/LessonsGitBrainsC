@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\С#\\Example\\Example003_Sum\\Example003_Sum.csproj": {}
+    "D:\\С#\\Example\\Example004_Div\\Example004_Div.csproj": {}
   },
   "projects": {
-    "D:\\С#\\Example\\Example003_Sum\\Example003_Sum.csproj": {
+    "D:\\С#\\Example\\Example004_Div\\Example004_Div.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\С#\\Example\\Example003_Sum\\Example003_Sum.csproj",
-        "projectName": "Example003_Sum",
-        "projectPath": "D:\\С#\\Example\\Example003_Sum\\Example003_Sum.csproj",
+        "projectUniqueName": "D:\\С#\\Example\\Example004_Div\\Example004_Div.csproj",
+        "projectName": "Example004_Div",
+        "projectPath": "D:\\С#\\Example\\Example004_Div\\Example004_Div.csproj",
         "packagesPath": "C:\\Users\\niipm\\.nuget\\packages\\",
-        "outputPath": "D:\\С#\\Example\\Example003_Sum\\obj\\",
+        "outputPath": "D:\\С#\\Example\\Example004_Div\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\niipm\\AppData\\Roaming\\NuGet\\NuGet.Config",
